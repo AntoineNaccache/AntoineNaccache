@@ -73,6 +73,4 @@ A production web app with Google OAuth, role-based access, and an AI generation 
 - Distributed LLM training (Mistral 7B, DeepSpeed, 4 GPUs) · GNN-based AML detection (F1: 0.80) · NLP systems for ENGIE and Unifai
 - Active in the SF AI scene: HackNight @GitHub · Google Agentic AI Workshop · WorkOS MCP Nights
 
----
 
-Antoine.Naccache@laposte.net
