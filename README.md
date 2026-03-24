@@ -8,11 +8,11 @@ Currently at **AXA Investment Managers** — building internal AI platforms (com
 
 ## Featured Projects
 
-### 🥇 Temporal Drift — 1st Place, Arcade AI GameJam (March 2025)
+### 🥇 WorldOfAI — 1st Place, Arcade AI GameJam (March 2025)
 
-> *A browser-based first-person game where AI generates every room around you and every NPC is a living chatbot with a secret to share.*
+> *A browser-based game where world generation is a core mechanic — AI generates assets, NPCs, and locations on the fly as you explore.*
 
-You wake up. Something feels off. Through AI-generated worlds and conversations, you uncover you're a time traveler — and your mission is to prevent the assassination of King Henri IV of France in 1610.
+The player generates new worlds to discover their purpose, interacting with AI-generated NPCs and environments to uncover an end goal — freedom of exploration with a meaningful destination.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
