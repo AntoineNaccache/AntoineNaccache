@@ -63,7 +63,7 @@ A production web app with Google OAuth, role-based access, and an AI generation 
 - **React 19 + Vite** frontend with Google OAuth via Supabase Auth
 - Admin-only generation endpoint, rate limiting, Row Level Security
 
-**[Live →](https://cats-image-generator-ui.vercel.app)**
+**[Live →](https://cats-image-generator-ui.vercel.app)** · **[Backend repo →](https://github.com/AntoineNaccache/cats-image-generator)** · **[Frontend repo →](https://github.com/AntoineNaccache/cats-image-generator-ui)**
 
 ---
 
