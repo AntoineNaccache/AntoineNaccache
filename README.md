@@ -1,6 +1,6 @@
 # Antoine Naccache
 
-AI/ML Engineer based in San Francisco. I build agentic AI systems, LLM-powered applications, and ship things fast at hackathons — [1st place, Arcade AI GameJam 2025](#-worldofai--1st-place-arcade-ai-gamejam-march-2025).
+AI/ML Engineer based in Paris. I build agentic AI systems, LLM-powered applications, and ship things fast at hackathons — [1st place, Arcade AI GameJam 2025](#-worldofai--1st-place-arcade-ai-gamejam-march-2025).
 
 Currently at **AXA Investment Managers** — building internal AI platforms (compliance tools, code intelligence, GPU infra) for regulated financial environments.
 
